@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **kubernetes/stm32**
 
+- 💬 Ask me about **golang**
+
 - 📝 I regularly write articles on [https://minoic.top](https://minoic.top)
 
 - 📫 How to reach me **minoic2020@gmail.com**
