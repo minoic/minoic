@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minoic" alt="minoic" /></a> </p>
 
-- 🌱 I’m currently learning **kubernetes/stm32**
+- 🌱 I’m currently learning **AUTOSAR**
 
 - 💬 Ask me about **golang**
 
-- 📝 I regularly write articles on [https://minoic.top](https://minoic.top)
+- 📝 I regularly write articles on [https://www.minoic.top](https://www.minoic.top)
 
 - 📫 How to reach me **minoic2020@gmail.com**
 
